@@ -17,6 +17,7 @@ const FirstPage = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12 items-center">
             <div className="order-2 lg:order-1 space-y-6">
               <div className="space-y-6">
+
                 <motion.h1
                   className={`${
                     inter.className
@@ -29,18 +30,13 @@ const FirstPage = () => {
                     type: "spring",
                   }}
                 >
-                  I&apos;M A UI/UX Designer And Front-End Web Dev
-                  <motion.span
-                    className="text-[#F09] uppercase block mt-2"
-                    initial={{ translateY: 100, opacity: 0 }}
-                    animate={{ translateY: 0, opacity: 1 }}
-                    transition={{
-                      type: "spring",
-                      delay: 0.2,
-                    }}
-                  >
-                    <Text />
-                  </motion.span>
+
+
+                  <h1 className="text-orange-200">Pixel Blend</h1>
+                    
+                  Product Designer and Ui /UX Developer
+
+              
                 </motion.h1>
                 <motion.p
                   className={`text-sm sm:text-base md:text-lg leading-relaxed ${
@@ -53,7 +49,16 @@ const FirstPage = () => {
                     delay: 0.4,
                   }}
                 >
-                  As an Informatics Engineering Student with experience as a Graphic Designer, Agency Freelancer, and UI/UX Designer Freelancer. I have developed myself in creating engaging and creative graphic designs for diverse clients across various industries. My expertise with design software like Adobe Creative Suite helps me deliver compelling visual solutions.
+                At Pixel Blend, I design and build digital experiences that are not only beautiful but also perfectly engineered — from UI concepts to front-end code templates.
+
+                What I Do
+
+                Product Design — turning complex ideas into simple, elegant interfaces.
+
+                UI/UX Design — focusing on intuitive flows, consistency, and pixel-perfect details.
+
+                Code Templates — ready-to-use front-end templates for designers and developers
+
                 </motion.p>
                 <motion.div
                   className="flex flex-col sm:flex-row gap-4 sm:gap-6"
@@ -110,7 +115,7 @@ const FirstPage = () => {
             {/* Hero Image/Graphics Section */}
             <div className="order-1 lg:order-2 relative flex justify-center lg:justify-end">
               <motion.div
-                className="relative z-10"
+                className="relative z-10 "
                 initial={{ translateY: 100, opacity: 0 }}
                 animate={{ translateY: 0, opacity: 1 }}
                 transition={{

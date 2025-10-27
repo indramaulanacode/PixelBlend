@@ -27,7 +27,7 @@ const Footer = () => {
               delay: 0.2,
             }}
           >
-            Indra Maulana Agung
+            Pixel Blend
           </motion.h2>
 
           

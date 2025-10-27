@@ -1,6 +1,5 @@
 
-
-let nama: string = "Indra Maulana Agung";
+let nama: string = "Pixel Blend";
 let umur: number = 28;
 
 console.log(umur);
@@ -16,7 +15,7 @@ function updateNama(namaBaru: string) {
     nama = namaBaru;
 }
 
-updateNama("Agung Indra Maulana");
+updateNama("Pixel Blend);
 tampilkanNama();
 
 function tampilkanUmur() {

@@ -30,7 +30,7 @@ export default function Nav() {
     >
       <NavbarContent className="container-responsive flex justify-between">
         <NavbarBrand className="flex-shrink-0">
-          <p className="font-bold text-inherit text-lg lg:text-xl">INDRA MAULANA</p>
+          <p className="font-bold text-inherit text-lg lg:text-xl">Pixel Blend</p>
         </NavbarBrand>
 
         {/* Desktop Menu */}
