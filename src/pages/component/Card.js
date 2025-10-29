@@ -1,6 +1,5 @@
 import React from "react";
-
-import { Card, CardHeader, CardBody } from "@nextui-org/react";
+import { Card, CardHeader, CardBody } from "@heroui/react";
 import Image from "next/image";
 import { useTheme } from "../../Darkmode/ThemeContext";
 import { motion } from "framer-motion";

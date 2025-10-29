@@ -8,7 +8,7 @@ import {
   NavbarMenu,
   NavbarMenuItem,
   NavbarMenuToggle,
-} from "@nextui-org/react";
+} from "@heroui/react";
 import LightModeToggle from "../Darkmode/LightModeToogle";
 import { useTheme } from "../Darkmode/ThemeContext";
 

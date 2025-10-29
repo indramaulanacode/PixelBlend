@@ -1,6 +1,5 @@
 import Image from "next/image";
-import { Button, Card, CardHeader, Link } from "@nextui-org/react";
- import { Button, Card } from "@heroui/react";
+import { Button, Card, CardHeader, Link } from "@heroui/react";
 import { Inter } from "next/font/google";
 import dynamic from "next/dynamic";
 import { motion } from "framer-motion";

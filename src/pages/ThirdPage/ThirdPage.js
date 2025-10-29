@@ -1,5 +1,4 @@
-import { Button, Link } from "@nextui-org/react";
- import { Button, Card } from "@heroui/react";
+import { Button, Link } from "@heroui/react";
 
 
 

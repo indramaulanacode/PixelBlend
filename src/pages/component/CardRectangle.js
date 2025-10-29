@@ -1,7 +1,5 @@
 import React from "react";
-
-import { Card, CardFooter, Image, Button } from "@nextui-org/react";
- import { Button, Card } from "@heroui/react";
+import { Card, CardFooter, Image, Button } from "@heroui/react";
 
 export default function CardRectangle() {
   return (

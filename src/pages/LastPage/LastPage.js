@@ -1,5 +1,4 @@
 import React from "react";
-import { Button, Card } from "@heroui/react";
 import { Inter } from "next/font/google";
 import {
   Card,
@@ -7,7 +6,7 @@ import {
   Image,
   Button,
   Link,
-} from "@nextui-org/react";
+} from "@heroui/react";
 import { motion } from "framer-motion";
 
 const inter = Inter({ subsets: ["latin"] });

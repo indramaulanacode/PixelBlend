@@ -1,6 +1,5 @@
 import React from "react";
-
-import { Card, CardHeader } from "@nextui-org/react";
+import { Card, CardHeader } from "@heroui/react";
 
 export default function CardSecondPage() {
   return (
