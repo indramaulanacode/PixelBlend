@@ -14,14 +14,14 @@
   "../../node_modules/@heroui/react/node_modules/@heroui/navbar/dist/chunk-GACT3GHG.mjs -> @heroui/dom-animation": {
     "id": 7094,
     "files": [
-      "static/chunks/699-cb9676dd90d0cbfc.js",
+      "static/chunks/699-98fcccaf6aef3b10.js",
       "static/chunks/94.f9bc968b4284d692.js"
     ]
   },
   "../../node_modules/@heroui/react/node_modules/@heroui/navbar/dist/chunk-SOOT4SRX.mjs -> @heroui/dom-animation": {
     "id": 7094,
     "files": [
-      "static/chunks/699-cb9676dd90d0cbfc.js",
+      "static/chunks/699-98fcccaf6aef3b10.js",
       "static/chunks/94.f9bc968b4284d692.js"
     ]
   },
@@ -36,7 +36,7 @@
   "../../node_modules/@heroui/react/node_modules/@heroui/ripple/dist/chunk-QHRCZSEO.mjs -> @heroui/dom-animation": {
     "id": 7094,
     "files": [
-      "static/chunks/699-cb9676dd90d0cbfc.js",
+      "static/chunks/699-98fcccaf6aef3b10.js",
       "static/chunks/94.f9bc968b4284d692.js"
     ]
   },
