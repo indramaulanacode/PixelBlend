@@ -1,4 +1,5 @@
 import React from "react";
+ import { Button, Card } from "@heroui/react";
 import { Button } from "@nextui-org/react";
 import { Inter } from "next/font/google";
 import { motion } from "framer-motion";

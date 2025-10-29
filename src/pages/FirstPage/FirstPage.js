@@ -1,5 +1,6 @@
 import React from "react";
 import { Button, Link } from "@nextui-org/react";
+ import { Button, Card } from "@heroui/react";
 import Image from "next/image";
 import { Inter } from "next/font/google";
 import { useTheme } from "../../Darkmode/ThemeContext";

@@ -1,6 +1,7 @@
 import React from "react";
 import { Inter } from "next/font/google";
 import { Button, Link } from "@nextui-org/react";
+import { Button, Card } from "@heroui/react";
 import Image from "next/image";
 import CardSecondPage from "../component/CardSecondPage";
 import CardRectangle from "../component/CardRectangle";

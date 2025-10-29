@@ -1,4 +1,5 @@
 import React from "react";
+import { Button, Card } from "@heroui/react";
 import { Inter } from "next/font/google";
 import {
   Card,
