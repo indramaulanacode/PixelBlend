@@ -1,21 +1,6 @@
 {
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
-  "/FifthPage/FifthPage": "pages/FifthPage/FifthPage.html",
   "/_document": "pages/_document.js",
-  "/FirstPage/FirstPage": "pages/FirstPage/FirstPage.html",
-  "/LastPage/LastPage": "pages/LastPage/LastPage.html",
-  "/SecondPage/SecondPage": "pages/SecondPage/SecondPage.html",
-  "/Footer/Footer": "pages/Footer/Footer.html",
-  "/api/hello": "pages/api/hello.js",
-  "/TriplePage/TriplePage": "pages/TriplePage/TriplePage.html",
-  "/Nav": "pages/Nav.html",
-  "/ThirdPage/ThirdPage": "pages/ThirdPage/ThirdPage.html",
-  "/component/Card": "pages/component/Card.html",
-  "/component/CardRectangle": "pages/component/CardRectangle.html",
-  "/component/CardSecondPage": "pages/component/CardSecondPage.html",
-  "/component/Text": "pages/component/Text.html",
-  "/": "pages/index.html",
-  "/component/Video": "pages/component/Video.html",
-  "/404": "pages/404.html"
+  "/": "pages/index.js"
 }
